@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/HemrajPro/Heartles",
+    "https://github.com/HemrajPro/ TokyoMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -87,21 +87,21 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg"
+PLAYLIST_IMG_URL = "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg"
+STATS_IMG_URL = "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg"
+TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg"
+TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg"
+STREAM_IMG_URL = "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg"
+SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg"
+YOUTUBE_IMG_URL = "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg"
 
 
 def time_to_seconds(time):
