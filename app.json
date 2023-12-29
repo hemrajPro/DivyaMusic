@@ -1,7 +1,7 @@
 {
-    "name": "Heartlessxmusics",
+    "name": "YokyoXmusics",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/34c1211365e2aed9ec09a.jpg",
+    "logo": "https://te.legra.ph/file/b585ca61e833a2919b0c8.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6194877007",
+        "value": " ",
         "required": true
       },
       "STRING_SESSION": {
